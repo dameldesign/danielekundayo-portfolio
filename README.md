@@ -1,7 +1,5 @@
-# Daniel Ekundayo - Personal portfolio
+# Daniel  Jesutobi Ekundayo - Personal portfolio
 
-
-[![Twitter Follow](https://twitter.com/damel_design?t=CQp8czcBtUxPgf5Z6ui_BQ&s=09)]
  built using HTML, CSS, and JavaScript.
 
 ## Demo
