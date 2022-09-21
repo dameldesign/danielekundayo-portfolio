@@ -384,6 +384,7 @@ main {
   z-index: -1;
 }
 
+
 .info_more-btn:hover,
 .info_more-btn:focus { background: var(--bg-gradient-yellow-1); }
 
@@ -1023,9 +1024,27 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .project-img { height: auto; }
+  
 
 }
 
+@media (max-width: 450px) {
+
+  /**
+   * #PORTFOLIO,
+   */
+
+  .info_more-btn {
+    font-size: 28px;
+    padding: 11px;
+
+  }
+  .info-content .title {
+    font-size: var(--fs-7);
+  }
+  .info-content .name{font-size: var(--fs-2);}
+
+}
 
 
 
@@ -1127,7 +1146,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .info_more-btn span {
     display: block;
-    font-size: var(--fs-8);
+    font-size: var(--fs-7);
+    font-weight: var(--fw-500);
+
   }
 
   .info_more-btn ion-icon { display: none; }
