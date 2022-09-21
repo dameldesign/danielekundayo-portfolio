@@ -1,6 +1,6 @@
 # Daniel  Jesutobi Ekundayo - Personal portfolio
 
- built using HTML, CSS, and JavaScript.
+ built using HTML, CSS, and JavaScript. and Love👌
 
 ## Demo
 
