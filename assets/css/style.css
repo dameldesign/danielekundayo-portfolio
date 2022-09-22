@@ -946,7 +946,7 @@ main {
   outline: none;
 }
 
-.form-input::placeholder { font-weight: var(--fw-500); }
+.form-input::placeholder { font-weight: var(--fw-500); font-size: 1.1rem; }
 
 .form-input:focus { border-color: var(--orange-yellow-crayola); }
 
