@@ -900,6 +900,10 @@ main {
 .appreciation{
   margin-top: 30px;
 }
+.appreciation a{
+  color: white;
+  display: inherit;
+}
 
 
 /*-----------------------------------*\
